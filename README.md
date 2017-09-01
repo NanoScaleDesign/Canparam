@@ -11,4 +11,4 @@ The package functionality can easily be extended by adding python files to the `
 Any corrections or improvements are welcome!
 
 ## Author
-`Canparam` was developed by James Cannon (http://www.jamescannon.net) and was released in September 2017 to coincide with his presentation at #PyFukuoka (https://fukuoka-python.connpass.com/event/60743/)
+`Canparam` was developed by James Cannon (http://www.jamescannon.net) and was presented at #PyFukuoka (https://fukuoka-python.connpass.com/event/60743/) in September 2017.
