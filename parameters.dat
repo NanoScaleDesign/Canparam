@@ -1,0 +1,17 @@
+# Number of water molecules in the system
+# Writing "dens(900)" instead of a number will fill
+# the box with an appropriate number of molecules to
+# achieve 900 kg/m3 density.
+# Available water models: 'spce' and 'tip4pice'
+liquids     tip4pice
+nmols       dens(900)
+
+# Simulation time (ns)
+time        1.5
+
+# Size of simulation box (Å).
+box         40 40 40
+
+# GPU acceleration (on/off)
+# Default: off
+#gpu         on
